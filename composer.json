@@ -1,0 +1,12 @@
+{
+    "name": "novaway/tideways-profiler-stubs",
+    "description": "Stubs for the Tideways PHP Profiler Extension",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jérémy DECOOL",
+            "email": "contact@jdecool.fr"
+        }
+    ]
+}
